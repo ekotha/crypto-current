@@ -4,13 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Background
 
-App calls from two APIs from rapidAPI.
-    1. Retrieves crypto exchange rate for conversions
-    2. Fetches recent news articles from a feed.  
+App calls from two APIs from rapidAPI. <br>
+    1. Retrieves crypto exchange rate for conversions <br>
+    2. Fetches recent news articles from a feed.  <br>
 
 Frontend in React. Backend in Node. 
 
-# Running the program
+# Initialize
 
-npm run start:backend
+npm run start:backend <br>
 npm run start:frontend
