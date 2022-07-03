@@ -1,4 +1,4 @@
-# Getting Started with Crypto Currency + Current Events
+# Crypto Currency + Current Events
 
 # Background
 
