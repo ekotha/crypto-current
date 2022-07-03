@@ -1,7 +1,5 @@
 # Getting Started with Crypto Currency + Current Events
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Background
 
 App calls from two APIs from rapidAPI. <br>
@@ -12,5 +10,6 @@ Frontend in React. Backend in Node.
 
 # Initialize
 
-npm run start:backend <br>
+npm run start:backend 
+<br>
 npm run start:frontend
